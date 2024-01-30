@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktopView.png)
-![](./design/phoneView.png)
+![](desktopView.png)
+![](phoneView.png)
 
 ### Links
 
