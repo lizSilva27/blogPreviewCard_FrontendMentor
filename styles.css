@@ -37,7 +37,7 @@ main {
 }
 
 .backgroundImgContainer {
-  background-image: url(assets/images/illustration-article.svg);
+  background-image: url(illustration-article.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
